@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+
+body {
+  text-align: center;
+  font-family: Patrick Hand;
+  font-size: larger;
+  background-image: url(/images/EMOJI.png);
+
+  image-rendering: optimizeSpeed;
+}
