@@ -25,7 +25,7 @@ function clickbutton(){
     else{
         var [counter , nextDateforChecking] = nextPalindrome(date);
     
-        divOpt.innerText = 'Sorry! You missed it. The next palindrome date is ' + nextDateforChecking.day + '-' + nextDateforChecking.month + '-' + nextDateforChecking.year +', you missed it by just' + counter+ ' Days 🙁';
+        divOpt.innerText = 'Sorry! You missed it. The next palindrome date is ' + nextDateforChecking.day + '-' + nextDateforChecking.month + '-' + nextDateforChecking.year +', you missed it by just ' + counter+ ' Days 🙁';
     }}
     
     

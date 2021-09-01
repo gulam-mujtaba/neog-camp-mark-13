@@ -4,7 +4,73 @@ body {
   text-align: center;
   font-family: Patrick Hand;
   font-size: larger;
-  background-image: url(/images/EMOJI.png);
+  background-image: url(https://i.pinimg.com/736x/0d/80/8b/0d808be312f35d2b18c1695c9fdf6ada.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25px;
+  margin: 20px;
+}
 
-  image-rendering: optimizeSpeed;
+h1 {
+  font-size: xx-large;
+  font-weight: bolder;
+  padding: 15px 5px 15px 5px;
+  margin: 15px 5px 15px 5px;
+  color: #3d1b0e;
+  border-radius: 15px;
+  background-color: coral;
+  box-shadow: 0 12px 16px 0 #554d4d6c, 0 17px 50px 0 #f8f8f830;
+}
+
+h4 {
+  font-size: x-large;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+h3 {
+  font-size: larger;
+  text-align: center;
+  color: #202e22;
+}
+
+input {
+  font-size: larger;
+  font-family: Patrick hand;
+  border-radius: 10px;
+  border-color: #3d1b0e;
+  padding: 8px;
+  margin: 10px;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+button {
+  font-size: larger;
+  font-weight: bold;
+  background-color: #dd754b;
+  border-radius: 10px;
+  color: #051624;
+  padding: 10px;
+  margin: 5px;
+  border-color: black;
+}
+
+.check:hover {
+  background-color: #4caf50;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.336),
+    0 17px 50px 0 rgba(0, 0, 0, 0.288);
+}
+
+.output {
+  font-size: larger;
+  color: #240b01;
+  background-color: #50a3db88;
+  font-weight: bolder;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.336),
+    0 17px 50px 0 rgba(0, 0, 0, 0.288);
+
+  margin: 15px;
+  border-radius: 20px;
 }
