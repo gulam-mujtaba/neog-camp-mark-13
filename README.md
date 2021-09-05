@@ -1,7 +1,7 @@
 # Palindrome Birthday App.
 
-It tells you whether your birthdate is a palindrome.
+This app will let you know whether your birthdate is a palindrome.
 1. Enter your Date of Birth.
 2. click on the button below.
-3. See wether your Birthdate is a palindrome.
+3. See wether you were born on **Palindrome Birthday**.
 
